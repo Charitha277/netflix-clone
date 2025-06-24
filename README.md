@@ -30,3 +30,6 @@ This project was built to practice frontend development and CSS layout mastery. 
 Charitha Besta
 GitHub: @charitha277
 
+🔗 Live Demo
+👉 https://charitha277.github.io/netflix-clone/
+
